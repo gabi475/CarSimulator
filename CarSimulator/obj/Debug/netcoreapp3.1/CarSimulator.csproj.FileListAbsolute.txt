@@ -1,0 +1,16 @@
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.exe
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.deps.json
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.json
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.dev.json
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csprojAssemblyReference.cache
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfoInputs.cache
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfo.cs
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.CopyComplete
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\Gabi\Documents\Udemy\Car\CarSimulator\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.genruntimeconfig.cache
